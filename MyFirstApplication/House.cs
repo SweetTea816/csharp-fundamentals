@@ -12,5 +12,5 @@ public class House
     {
         Console.WriteLine("My door is open.");
     }
-
+    
 }
